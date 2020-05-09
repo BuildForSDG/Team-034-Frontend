@@ -1,26 +1,13 @@
-barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
-
-[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
-
-
 ## About
 
-What is this project about. Ok to enrich here or the section above it with an image. 
-
-Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
-
-This is a simple JavaScript starter repo template for setting up your project. The setup contains
-
-- Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
-
-- Eslint & Prettier: For formatting code to match ESlint AirBnB coding standard. You might need to install the ESlint and Prettier plugins for your code editor to make the most of these utilities
+The project "Safer Road" will help in reducing a lot of road accident which leads to millions of death and injury in the world today. This project will help avoid, alert, inform, monitor, and report road injuries and deaths.
 
 ## Why
-
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
+Traffic Road Accident is a global problem because approximately 1.35 millions death and more than 50 millions of people injured each year in the world because of Traffic Road Accident.
+The aim of this project is to help in educating people on how to drive safely, getting to know traffic sign better, giving first aids to an accident victim, calling 911 and nearest hospital hotlines immediately.
 
 ## Usage
- How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
+ Coming soon.....
 
 
 ## Setup
