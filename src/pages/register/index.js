@@ -1,11 +1,18 @@
 import React from 'react';
+import RegisterForm from '../../components/register';
 
 const RegisterPage = () => {
-    return ( 
-        <>
-            Register Page goes here
-        </>
-     );
-}
- 
+  return (
+    <>
+    {/* 
+        Navbar
+    */}
+      <RegisterForm />
+      {/* 
+        Footer
+      */}
+    </>
+  );
+};
+
 export default RegisterPage;
