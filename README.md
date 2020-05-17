@@ -1,5 +1,7 @@
 ## About
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7281776e020a477fb9e8cadfd12e0ddb)](https://app.codacy.com/gh/BuildForSDG/Team-034-Frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-034-Frontend&utm_campaign=Badge_Grade_Settings)
+
 The project "Safer Road" will help in reducing a lot of road accident which leads to millions of death and injury in the world today. This project will help avoid, alert, inform, monitor, and report road injuries and deaths.
 
 ## Why
